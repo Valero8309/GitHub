@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZE_FORMA_PAGO_FISCAL_NEW</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>CHAR20</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Forma de pago del comprobante fiscal una sola exhibición</DDTEXT>
+    <REPTEXT>Forma pago del comprobante fiscal una sola exhibición</REPTEXT>
+    <SCRTEXT_S>P. Una exh</SCRTEXT_S>
+    <SCRTEXT_M>Forma p. Una exh</SCRTEXT_M>
+    <SCRTEXT_L>Forma pago comprobante fiscal una exh</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
